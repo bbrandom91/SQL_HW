@@ -1,3 +1,3 @@
-# SQL_HW
+# SQL_Sakila
 
-This is an assignment for a data analysis class. I open a SQL database and perform several types of SQL queries.
+In this script I perform some SQl queries to explore the Sakila dataset.
